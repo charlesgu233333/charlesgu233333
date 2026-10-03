@@ -1,4 +1,24 @@
-## Hi there 👋
+# Charles Gu
+
+**Design · Software · Experiments**
+
+I design, build, and experiment with software and products — from minimal interfaces to AI-native research workflows.
+
+## Projects
+
+### HHMM
+A minimal full-screen clock for iPad.  
+**Only time. Nothing else.**
+
+[Product page](https://charlesgu.charlesgu2333.chatgpt.site/hhmm/)
+
+### SENSE
+An AI-native research workflow / research OS focused on evidence grounding, human review, formal records, and explicit next checks.
+
+## Links
+
+- [Personal site](https://charlesgu.charlesgu2333.chatgpt.site/)
+- [Email](mailto:charlesgu2333@gmail.com)## Hi there 👋
 
 <!--
 **charlesgu233333/charlesgu233333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
