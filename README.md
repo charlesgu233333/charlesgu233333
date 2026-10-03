@@ -18,7 +18,7 @@ An AI-native research workflow / research OS focused on evidence grounding, huma
 ## Links
 
 - [Personal site](https://charlesgu.charlesgu2333.chatgpt.site/)
-- [Email](mailto:charlesgu2333@gmail.com)## Hi there 👋
+- [Email](mailto:charlesgu2333@gmail.com)
 ## Support
 
 If you'd like to support my independent work:
